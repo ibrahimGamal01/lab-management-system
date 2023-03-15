@@ -13,3 +13,7 @@ The project is structured as follows:
 * `controllers/`: This directory contains the code for the controllers used in the application. There is a controller for each endpoint in the API. The controllers are responsible for processing the requests received by the routes, and returning the appropriate response.
 
 * `config/`: This directory contains the configuration files for the application. There is a file for the database configuration, which contains the database connection information, and a file for the server configuration, which contains the server port information.
+
+# ER Diagram
+
+![ER Diagram](LMS.drawio.png)
